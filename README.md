@@ -36,3 +36,10 @@ Proyek ini dikembangkan dengan teknologi berikut:
 ```bash
 git clone https://github.com/username/repository.git
 cd repository
+```bash
+npm install
+```bash
+cp .env.example .env
+```bash
+npm start
+
