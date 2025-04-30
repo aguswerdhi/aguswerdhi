@@ -5,19 +5,20 @@
 
 ## 👋 A Little About Me
 
-Hi! Saya Agus — seorang pengembang web yang suka membangun tampilan antarmuka yang rapi dan fungsional, serta backend yang ringan tapi powerful.  
-Saya percaya bahwa kode yang baik itu bukan hanya yang bekerja, tapi juga mudah dibaca dan dirawat.
+Hi! I'm Agus — a web developer who enjoys building clean, functional user interfaces and lightweight but powerful backends.  
+I believe good code isn’t just about working — it's about being readable and maintainable too.
 
-Sehari-hari saya ngoding pakai **PHP**, database seperti **MySQL** & **PostgreSQL**, dan saya suka banget styling dengan **TailwindCSS** + **Alpine.js**. Kalau sempat, saya suka kasih efek visual pakai **Vanta.js** biar web-nya nggak membosankan. 😄
+Most of the time, I write backend logic in **PHP**, manage data with **MySQL** or **PostgreSQL**, and craft UIs using **TailwindCSS** and **Alpine.js**.  
+Whenever possible, I like to add creative touches using **Vanta.js** animations to make things visually interesting. 😄
 
 ---
 
 ## 🔧 What I Work With
 
-- ⚙️ Backend: PHP (biasa dan Laravel)
+- ⚙️ Backend: PHP (Vanilla and Laravel)
 - 🎨 Frontend: HTML, TailwindCSS, Alpine.js
 - 🛢️ Database: MySQL & PostgreSQL
-- ✨ Visual: Vanta.js (karena animasi itu keren)
+- ✨ Visual: Vanta.js (because animation makes things fun)
 
 ---
 
@@ -37,8 +38,8 @@ Sehari-hari saya ngoding pakai **PHP**, database seperti **MySQL** & **PostgreSQ
 
 ## 🧪 What I'm Building
 
-Saat ini saya sedang mengembangkan beberapa proyek dashboard berbasis Laravel + Tailwind.  
-Sebagian besar proyeknya masih dalam pengembangan, tapi akan saya upload ke sini secepatnya. Stay tuned ya!
+I'm currently working on a few dashboard projects using Laravel + TailwindCSS.  
+Most of them are still in progress, but I’ll be uploading them here soon — stay tuned!
 
 ---
 
@@ -49,7 +50,7 @@ Sebagian besar proyeknya masih dalam pengembangan, tapi akan saya upload ke sini
 
 ---
 
-<p align="center">Terima kasih sudah mampir! Semoga harimu menyenangkan ☀️</p>
+<p align="center">Thanks for stopping by! Wishing you a great day ☀️</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aguswerdhi&style=flat-square&color=blue" alt="Profile views" />
 </p>
