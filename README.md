@@ -39,7 +39,7 @@ I'll be uploading more repositories and demo projects soon!
 
 ## 📫 Connect with Me
 
-- 📸 Instagram: [@aguswerdhi](https://instagram.com/aguswerdhi)
+- 📸 Instagram: [@dheiiitraaa_](https://instagram.com/aguswerdhi)
 - 🐙 GitHub: [@aguswerdhi](https://github.com/aguswerdhi)
 
 ---
