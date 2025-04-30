@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Agus Werdhi</h1>
-<p align="center">💻 Full Stack Web Developer | PHP • MySQL • TailwindCSS • Alpine.js</p>
+<h1 align="center">Hi there 👋, I'm Agus Werdhi</h1>
+<p align="center">💻 Web Developer | PHP • MySQL • TailwindCSS • Alpine.js</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 A Little About Me
 
-I'm a web developer with a strong focus on building clean, functional, and responsive web applications.  
-I work primarily with **PHP**, **MySQL**, and **PostgreSQL**, and love crafting UIs using **TailwindCSS** and **Alpine.js**.  
-I also enjoy enhancing visual experiences using **Vanta.js** animations.
+Hi! Saya Agus — seorang pengembang web yang suka membangun tampilan antarmuka yang rapi dan fungsional, serta backend yang ringan tapi powerful.  
+Saya percaya bahwa kode yang baik itu bukan hanya yang bekerja, tapi juga mudah dibaca dan dirawat.
 
-- 🔧 Backend: PHP (Vanilla / Laravel)
+Sehari-hari saya ngoding pakai **PHP**, database seperti **MySQL** & **PostgreSQL**, dan saya suka banget styling dengan **TailwindCSS** + **Alpine.js**. Kalau sempat, saya suka kasih efek visual pakai **Vanta.js** biar web-nya nggak membosankan. 😄
+
+---
+
+## 🔧 What I Work With
+
+- ⚙️ Backend: PHP (biasa dan Laravel)
 - 🎨 Frontend: HTML, TailwindCSS, Alpine.js
-- 🗄️ Database: MySQL & PostgreSQL
-- 🌌 Creative Touch: Vanta.js backgrounds
+- 🛢️ Database: MySQL & PostgreSQL
+- ✨ Visual: Vanta.js (karena animasi itu keren)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tools & Tech I Use
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -30,21 +35,21 @@ I also enjoy enhancing visual experiences using **Vanta.js** animations.
 
 ---
 
-## 📌 Projects
+## 🧪 What I'm Building
 
-Stay tuned — I'm currently working on Laravel dashboards and full-stack web apps.  
-I'll be uploading more repositories and demo projects soon!
+Saat ini saya sedang mengembangkan beberapa proyek dashboard berbasis Laravel + Tailwind.  
+Sebagian besar proyeknya masih dalam pengembangan, tapi akan saya upload ke sini secepatnya. Stay tuned ya!
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let’s Connect
 
 - 📸 Instagram: [@dheiiitraaa_](https://instagram.com/dheiiitraaa_)
 - 🐙 GitHub: [@aguswerdhi](https://github.com/aguswerdhi)
 
 ---
 
-<p align="center">Thanks for stopping by! 🚀</p>
+<p align="center">Terima kasih sudah mampir! Semoga harimu menyenangkan ☀️</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aguswerdhi&style=flat-square&color=blue" alt="Profile views" />
 </p>
