@@ -12,18 +12,18 @@
 
 ### 👋 A Little About Me
 
-Hi! I'm Agus — a web developer who enjoys building clean, functional user interfaces and lightweight but powerful backends.  
-I believe good code isn’t just about working — it's about being readable and maintainable too.
+Hi! I'm Agus, a web developer passionate about creating clean, functional user interfaces and building efficient, maintainable backend systems.  
+I believe that good code is more than just functional — it's readable and easy to maintain.
 
-Most of the time, I write backend logic in **PHP**, manage data with **MySQL** or **PostgreSQL**, and craft UIs using **TailwindCSS** and **Alpine.js**.  
-Whenever possible, I like to add creative touches using **Vanta.js** animations to make things visually interesting. 😄
+I primarily work with **PHP** for backend logic, **MySQL** and **PostgreSQL** for database management, and I love creating responsive user interfaces using **TailwindCSS** and **Alpine.js**.  
+For extra flair, I incorporate **Vanta.js** animations to make websites visually captivating. 😄
 
 ### 🔧 What I Work With
 
-- ⚙️ Backend: PHP (Vanilla and Laravel)
-- 🎨 Frontend: HTML, TailwindCSS, Alpine.js
-- 🛢️ Database: MySQL & PostgreSQL
-- ✨ Visual: Vanta.js (because animation makes things fun)
+- **⚙️ Backend**: PHP (Vanilla and Laravel)
+- **🎨 Frontend**: HTML, TailwindCSS, Alpine.js
+- **🛢️ Database**: MySQL & PostgreSQL
+- **✨ Visual**: Vanta.js (because animation makes everything better!)
 
 ### 🧰 Tools & Tech I Use
 
@@ -39,17 +39,17 @@ Whenever possible, I like to add creative touches using **Vanta.js** animations 
 
 ### 🧪 What I'm Building
 
-I'm currently working on a few dashboard projects using Laravel + TailwindCSS.  
-Most of them are still in progress, but I’ll be uploading them here soon — stay tuned!
+Currently, I'm building several dashboard projects using **Laravel** and **TailwindCSS**.  
+These projects are still under development, but I'll be sharing them here soon — stay tuned for updates!
 
 ### 🤝 Let’s Connect
 
-- 📸 Instagram: [@dheiiitraaa_](https://instagram.com/dheiiitraaa_)
-- 🐙 GitHub: [@aguswerdhi](https://github.com/aguswerdhi)
+- 📸 [Instagram: @dheiiitraaa_](https://instagram.com/dheiiitraaa_)
+- 🐙 [GitHub: @aguswerdhi](https://github.com/aguswerdhi)
 
 ---
 
-<p align="center">Thanks for stopping by — Wishing you a great day ☀️</p>
+<p align="center">Thanks for visiting — Wishing you a great day ☀️</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aguswerdhi&style=flat-square&color=blue" alt="Profile views" />
 </p>
